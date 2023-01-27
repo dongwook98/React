@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -24,6 +23,7 @@ function App() {
         </li>
       </ol>
       <img
+        alt='리액트사진'
         style={{ width: 700, height: 500 }}
         src='https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'
       ></img>
